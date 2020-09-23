@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 20px;
+    background-color: white;
+    width: 100%;
+}
+.label{
+    display:inline-block;
+    width:100px;
+}
+.polo{
+    width:85px;
+}
+.sub{
+    width: 200px;
+} 
